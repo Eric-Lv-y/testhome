@@ -1,2 +1,2 @@
 # testhome
-Python exercise records;Test controler
+Python exercise records;Test controller growing process;
